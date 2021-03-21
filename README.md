@@ -1,4 +1,2 @@
 # PythonStudies
- Meus estudos com Python
-
-teste push
+ Meus estudos com Python.
